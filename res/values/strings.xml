@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NightModeDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text">1997 年Servlet技术的产生以及紧接着JSP的产生，为Java对抗PHP，ASP等等服务器端语言带来了筹码。1998年，Sun发布了EJB1.0标准，至此J2EE平台的三个核心技术都已经出现。于是，1999年，Sun正式发布了J2EE的第一个版本。并于1999年底发布了J2EE1.2，在 2001年发布了J2EE1.3，2003年发布了J2EE1.4。2.J2EE1.3 J2EE1.3的架构，其中主要包含了Applet容器，Application Client容器，Web容器和EJB容器，并且包含了Web Component，EJB Component，Application Client Component，以JMS，JAAS，JAXP，JDBC，JAF，JavaMail，JTA等等技术做为基础。 1.3中引入了几个值得注意的功能：Java消息服务（定义了JMS的一组API），J2EE连接器技术（定义了扩展J2EE服务到非J2EE应用程序的标准），XML解析器的一组Java API，Servlet2.3，JSP1.2也都进行了性能扩展与优化，全新的CMP组件模型和MDB（消息Bean）。3.J2EE1.4 J2EE1.4 大体上的框架和J2EE1.3是一致的，1.4增加了对Web服务的支持，主要是Web Service，JAX-RPC，SAAJ，JAXR，还对EJB的消息传递机制进行了完善（EJB2.1），部署与管理工具的增强（JMX），以及新版本的Servlet2.4和JSP2.0使得Web应用更加容易。4.JAVA EE 5JAVA EE 5拥有许多值得关注的特性。其中之一就是新的 Java Standard Tag Library (JSTL) 1.2 规范。JSTL 1.2 的关键是统一表达式语言，它允许我们在 JavaServer Faces (JSF) 中结合使用 JSTL 的最佳特性。</string>
+
+</resources>
